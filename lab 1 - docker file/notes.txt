@@ -1,0 +1,3 @@
+npm install or npm i   installs the dependcies appearing in the package.json dependcies
+ 
+docker build -t <tag-name> -f <dockerfile_path>
